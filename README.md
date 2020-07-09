@@ -1,5 +1,5 @@
 ```bash
-echo wbxrpung#dd.pbz | tr a-z n-za-m
+echo 'wbxrpung#dd.pbz' | tr a-z n-za-m
 
 > whoami
 
